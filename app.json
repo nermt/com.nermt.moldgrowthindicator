@@ -1,0 +1,24 @@
+{
+  "id": "com.nermt.moldgrowthindicator",
+  "version": "0.0.1",
+  "compatibility": ">=1.5.0",
+  "sdk": 2,
+  "name": {
+    "en": "Mold Growth Sensor"
+  },
+  "description": {
+    "en": "This app makes it possible ot create new virtual devices that indicates mold growth. Input from existing devices measuring temperature and relative humidity is required."
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Markus Ekdahl",
+    "email": "markus@familjenekdahl.com"
+  }
+}
